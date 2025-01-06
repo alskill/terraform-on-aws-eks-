@@ -1,4 +1,5 @@
-Infrastructure as Code Basics
+# Infrastructure as Code BasicsInfrastructure as Code Basics
+
 Step-01: Understand Problems with Traditional way of Managing Infrastructure
 Time it takes for building multiple environments
 Issues we face with different environments
